@@ -625,6 +625,5 @@ def room2():
     else:
         in_TV()
 
-
 start()
 
